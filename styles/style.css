@@ -1,0 +1,57 @@
+body {
+  margin-top: 50px;
+  /** 黑體  **/ 
+  font-family: 'cwTeXHei', serif;
+  /** 仿宋體 
+  font-family: 'cwTeXFangSong', serif;**/
+}
+
+.flip-menu {
+  margin: 10px auto;
+}
+
+table {
+  width: 90%;
+  background-color: transparent;
+  border: 2px solid gray;
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 40px;
+  margin: 50px auto;
+}
+
+th, td {
+  padding: 5px;
+}
+
+.table-header {
+  width: 10%;
+}
+
+.table-agenda {
+  font-size: 13px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+footer {
+  border: 1px solid #999;
+  margin-bottom: 50px;
+}
+
+.footer-header {
+  border: 1px solid #999;
+  display: inline;
+  line-height: 35px;
+  font-size: 18px;
+  margin-left: 100px;
+}
+
+.footer-content {
+  border: 1px solid #999;
+  font-size: 18px;
+  margin-left: 100px;
+  display: inline;
+}
